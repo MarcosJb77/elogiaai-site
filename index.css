@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f9ff;
+  margin: 0;
+  color: #223;
+}
+
+header {
+  background: #2a74d1;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.slogan {
+  font-style: italic;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.hero {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.hero .btn {
+  background: #2a74d1;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+.destaques {
+  padding: 20px;
+  background: #fff;
+}
+
+footer {
+  background: #e4e4e4;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
